@@ -1,0 +1,4 @@
+# Place your sample resume files (.doc or .docx) here for testing
+#
+# These files will be exposed as resources in the MCP server
+# and can be accessed via: resume://sample-{filename}

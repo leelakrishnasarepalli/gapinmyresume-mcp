@@ -2,7 +2,7 @@
 
 An MCP (Model Context Protocol) server that analyzes resumes against job descriptions to identify gaps, missing keywords, and improvement opportunities using OpenAI's GPT-4o-mini.
 
-https://youtu.be/JnteMtI5nCs
+[https://youtu.be/JnteMtI5nCs](https://youtu.be/JnteMtI5nCs?si=MVvKviTPIQSBaK1a)
 
 ## Features
 
